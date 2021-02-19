@@ -12,5 +12,6 @@
   * Neural networks
 
 ### `Programming languages:`
-  * С++/C
+  * С++
+  * C
   * Python (level 0 - 1)
