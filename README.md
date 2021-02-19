@@ -1,4 +1,4 @@
-## About me:
+## `About me:`
 ##### Hi! My mane is Sofiya and I'm a beginner developer from Russia.
 
 ### `Education:`
@@ -11,6 +11,6 @@
   * Machine learning
   * Neural networks
 
-### `Programming languages`
+### `Programming languages:`
   * С++/C
   * Python (level 0 - 1)
