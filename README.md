@@ -1,5 +1,5 @@
 ### `About me:`
-##### Hi! My mane is Sofiya and I'm a beginner developer from Russia.
+##### Hi! My name is Sofiya and I'm a beginner developer from Russia.
 
 #### `Education:`
   * Moscow School of Programming
