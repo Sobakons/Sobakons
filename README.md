@@ -4,7 +4,7 @@
 #### `Education:`
   * Moscow School of Programming
   * Good books
-  * Open spaces of the Internet :)
+  * Open spaces of the Internet ･ᴗ･
 
 #### `Areas of interest:`
   * Algorithms & data structures
