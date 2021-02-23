@@ -15,3 +15,4 @@
   * С++
   * C
   * Python (level 0 - 1)
+  * C# (level 0 - 1)
