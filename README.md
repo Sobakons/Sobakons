@@ -14,5 +14,5 @@
 #### `Programming languages:`
   * С++
   * C
-  * Python (level 0 - 1)
+  * Python (level 1 - 2)
   * C# (level 0 - 1)
